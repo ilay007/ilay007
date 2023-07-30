@@ -1,16 +1,23 @@
 ### Hi there 👋
 
 <!--
-**ilay007/ilay007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Hey there! I'm Ilay 👋 </h1>
+<h2> A Passionate Software Backend Developer From Russia </h2>
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🔭 &nbsp; I’m interested in Artificial Intellijence and trading systems with using it.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions, which can help you to solve your problems.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; full-stack developer and Data Science.
+- ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; C# | Python | Java | Android | 
+- 🛢 &nbsp; MySQL | Firebase | Postman
+- 🔧 &nbsp; Visual Studio | AndroidStudio | PyCharm | Jupyter | Visual Studio code  | Git
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumawatlalit912&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+
 -->
