@@ -2,7 +2,7 @@
 
 
 
-<h2> A Passionate Software Backend Developer From Russia </h2>
+<h2> A Passionate Software Backend Developer</h2>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m interested in Artificial Intellijence and trading systems with using it.
