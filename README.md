@@ -2,19 +2,19 @@
 
 
 
-<h2> A Passionate Software Backend Developer</h2>
+<h2> A Passionate Machine Learning Developer</h2>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m interested in Artificial Intellijence and trading systems with using it.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions, which can help you to solve your problems.
-- 🎓 &nbsp; Studying blockcahin, computer vision and Mathematics.
+- 🔭 &nbsp; I’m interested in artificial intelligence, building NLP systems, and image recognition, Q-learning tasks and stock predictions.
+- 🤔 &nbsp; Creating and deploying web applications with AI, wich can tackle any problem of your business.
+- 🎓 &nbsp; Studying Generative AI and Large Languages models.
 - 💼 &nbsp; Full-stack C# and Android developer in projects with using Neural nets.
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C# | Python | Java | Android | 
-- 🛢 &nbsp; MySQL | Firebase | Postman
+- 💻 &nbsp; Python | C# | Java | Android | 
+- 🛢 &nbsp; MySQL | PostgressSQL | Pandas
 - 🔧 &nbsp; Visual Studio | AndroidStudio | PyCharm | Jupyter | Visual Studio code  | Git
 
 
