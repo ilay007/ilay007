@@ -7,8 +7,7 @@
 
 - 🔭 &nbsp; I’m interested in artificial intelligence, building NLP systems, and image recognition, Q-learning tasks and stock predictions.
 - 🤔 &nbsp; Creating and deploying web applications with AI, wich can tackle any problem of your business.
-- 🎓 &nbsp; Studying Generative AI and Large Languages models.
-- 💼 &nbsp; Full-stack C# and Android developer in projects with using Neural nets.
+
 
 
 <h3>🛠 Tech Stack</h3>
